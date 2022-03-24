@@ -17,7 +17,7 @@ const Navbar = () => {
             <Link href='/dlprojects'><a>Deep Learning projects</a></Link>
         </div>
         <div className='text-shipgray my-4 text-2xl border-solid border-2 border-shipgray pt-4 pb-8 text-center text-bold'>
-            <Link href='/skills'><a>skills</a></Link>
+            <Link href='/skills'><a>Contact</a></Link>
         </div>
          
          
