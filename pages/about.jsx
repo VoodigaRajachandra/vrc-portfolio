@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div className='flex'>
         <Navbar/>
-        <section className='mx-4 my-4 bg-botgreen text-shipgray w-full'>
+        <section className='mx-4 my-4 bg-botgreen text-shipgray w-full border-solid border-shipgray border-4'>
             <h1 className='text-3xl text-center  py-8'>About me</h1>
             <p className='px-8 text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod laboriosam, saepe atque quis, esse ratione ad quas explicabo nobis itaque rerum ipsam delectus omnis possimus doloremque. Quidem, vitae quos.</p>
             <div className='my-4 px-8 flex items-center'>

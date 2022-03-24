@@ -6,7 +6,7 @@ const Daprojects = () => {
   return (
     <div className='flex'>
         <Navbar/>
-        <section className='mx-4 my-4 bg-botgreen text-shipgray w-full'>
+        <section className='mx-4 my-4 bg-botgreen text-shipgray w-full border-solid border-shipgray border-4'>
             <h1 className='text-3xl text-center  py-8'>Machine Learning Projects</h1>
            
             <div className='my-4 px-8 flex items-center'>

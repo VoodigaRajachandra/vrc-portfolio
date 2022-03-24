@@ -6,8 +6,8 @@ const Daprojects = () => {
   return (
     <div className='flex'>
         <Navbar/>
-        <section className='mx-4 my-4 bg-botgreen text-shipgray w-full'>
-            <h1 className='text-3xl text-center  py-8'>Data Learning Projects</h1>
+        <section className='mx-4 my-4 bg-botgreen text-shipgray w-full border-solid border-shipgray border-4'>
+            <h1 className='text-3xl text-center  py-8'>Deep Learning Projects</h1>
            
             <div className='my-4 px-8 flex items-center'>
                 <article className='mx-4'> <Image src='/profile.jpeg' width={'400px'}height={'300px'} alt='profilepic'/></article>
